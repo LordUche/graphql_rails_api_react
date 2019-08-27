@@ -2,24 +2,24 @@
 
 A sample Ruby on Rails GraphQL application.
 
-* Ruby version
+## Ruby version
 2.6.3
 
-* System dependencies
+## System dependencies
 [graphql-ruby](https://rubygems.org/gems/graphql)
 
-* Configuration
+## Configuration
 
-* Database creation
+## Database creation
 run `rails db:create`
 
-* Database initialization
+## Database initialization
 run `rails db:migrate`
 
-* How to run the test suite
+## How to run the test suite
 run `rails test`
 
-* Services (job queues, cache servers, search engines, etc.)
+## Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Deployment instructions
 
